@@ -5,3 +5,4 @@
 [list](https://github.com/sindresorhus/awesome).
 [常用软件列表](https://www.baidu.com).
 *This is the first classdata*
+**This is the second classdata**
